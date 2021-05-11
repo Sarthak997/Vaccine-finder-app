@@ -1,9 +1,3 @@
-email:
-  sent_from: "<sender_email>"
-  email_password: "<sender_password>"
-
-  # [edit] enter receiver email details
-  to: ["<receiver_email_id>"]
 
 area_info:
   # [edit] enter your district code or pincode
