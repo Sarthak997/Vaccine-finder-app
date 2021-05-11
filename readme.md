@@ -11,3 +11,7 @@ To know your district code follow these steps:
 - click on the url for your state you can see your district code by searching your district name.
 
 Enter the district code in [config file](config.yml) file
+
+https://api.telegram.org/bot<bot-token>/getUpdates for ids of user in telegram bot
+  
+ 
