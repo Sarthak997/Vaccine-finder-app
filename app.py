@@ -107,7 +107,7 @@ class vaccineSpotter:
 
 			else:
 				print("Vaccines not available for age limit {}\nTrying again\
-				 after {} minute.....\n".format(*self.age_limit, self.time_delay))
+				 after {} minute.....\n".format(self.age_limit, self.time_delay))
 		else:
 			print("something went wrong :(\nStatus code {} \nTrying again......\
 				after {} minute.....\n".format(response.status_code, self.time_delay))
