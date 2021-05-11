@@ -12,6 +12,6 @@ To know your district code follow these steps:
 
 Enter the district code in [config file](config.yml) file
 
-https://api.telegram.org/bot<bot-token>/getUpdates for ids of user in telegram bot
+https://api.telegram.org/bot(your-bot-token)/getUpdates for ids of user in telegram bot
   
  
