@@ -91,7 +91,7 @@ class vaccineSpotter:
 			else:
 				print('incorrect query type\nquery type must be either district_code or pincode\n')
 				return
-			if len(output) == 0:
+			if len(output) > 0:
 				print("Vaccines available")
 				print('\007')
 				result_str = ""
